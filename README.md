@@ -1,9 +1,6 @@
 ## Hi I'm Yishan 👋
 
-<!--
-**YishanWang123/YishanWang123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I am a Backend Engineer at [GitLab](https://gitlab.com). I love to contribute to open-source projects. I also write about software engineering, learning, and career **to help readers.** I am located in Berlin, Germany, and originally from Bihar, India. I previously worked as **Google Summer of Code 2021 Developer at [GitLab](https://gitlab.com)** and **Google Summer of Code 2020 Developer at [@Mozilla](https://github.com/mozilla)**.
 
 - 🔭 I’m currently a summer intern at AIR.,Tsinghua University  2025.7 - current.
 - ⚙️ I used to be an intern at the milab of Westlake University 2025.2 - 2025.5.
