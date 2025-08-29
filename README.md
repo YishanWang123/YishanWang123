@@ -5,4 +5,4 @@
 - 🀚 I’m currently a summer intern at AIR.,Tsinghua University  ---2025.7 - current.
 - 🀙 I used to be an intern at the Milab., Westlake University ---2025.2 - 2025.5.
 #### ☺︎ &nbsp;**Interests:**
-- 🤖 I’m interested in Robot Learning like VLA, RL for Robotics, MLLM.
+- 🤖 I’m interested in Robot Learning.
