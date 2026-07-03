@@ -1,6 +1,6 @@
 ## Hi I'm Yishan 👋
 
-🧑‍🎓 I am an undergraduate student at Nanjing University of Science and Technology. (2022-2026)
+🧑‍🎓 I am an incoming master student at The Chinese University of Hong Kong, Shenzhen.
 
 - 📫 How to reach me: [yishanwang0502@gmail.com](mailto:yishanwang0502@gmail.com)
 
