@@ -1,6 +1,6 @@
 ## Hi I'm Yishan 👋
 
-🧑‍🎓 I am an incoming master student at The Chinese University of Hong Kong, Shenzhen.
+🧑‍🎓 I am an incoming master student @ **The Chinese University of Hong Kong, Shenzhen**.
 
 - 📫 How to reach me: [yishanwang0502@gmail.com](mailto:yishanwang0502@gmail.com)
 
