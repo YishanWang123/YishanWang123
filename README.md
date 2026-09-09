@@ -1,6 +1,6 @@
 ## Hi I'm Yishan 👋
 
-🧑‍🎓 MS_Year1 @**[The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en)**.
+🧑‍🎓 MS_Year1 @**[CUHK(SZ)](https://www.cuhk.edu.cn/en)**.
 
 - 📫 How to reach me: [yishanwang0502@gmail.com](mailto:yishanwang0502@gmail.com)
 
