@@ -6,7 +6,7 @@
 
 #### 🧟 &nbsp;**Experience:**
 
-- **🀛 Intern at LiberAI** ｜ 2026.6 - Present
+- **🀛 Intern at LiberAI** ｜ 2026.6 - 2026.11
 - **🀚 Summer Intern at AIR, Tsinghua University** ｜ 2025.7 - 2025.10
 - **🀙 Intern at MiLab, Westlake University** ｜ 2025.2 - 2025.5
 
