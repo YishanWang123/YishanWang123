@@ -12,4 +12,4 @@
 
 #### ☺︎ &nbsp;**Interests:**
 
-- 🤖 I’m interested in Robot Learning and Generative AI.
+- 🤖 I’m interested in Robot Learning.
